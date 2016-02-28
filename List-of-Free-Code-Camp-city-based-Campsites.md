@@ -807,6 +807,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Latakia](https://www.facebook.com/groups/free.code.camp.latakia/)
 - Taiwan
   - [Kaohsiung](https://www.facebook.com/groups/free.code.camp.kaohsiung/)
+  - [Taichung](https://www.facebook.com/groups/free.code.camp.taichung.city/)
   - [Taipei](https://www.facebook.com/groups/free.code.camp.taipei/)
 - Tanzania
   - [Arusha](https://www.facebook.com/groups/Free.Code.Camp.Arusha.Moshi/)
